@@ -1,6 +1,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=novout&bg_color=rgba(13,17,23,0)&color=fc6f03&line=707070&point=dedede&area=false&hide_border=true">
 
-**Hi, I'm Giovane – a brazilian freelancer developer/modder/writer and open-source enthusiast.**
+**Hi, I'm Giovane – a brazilian freelancer developer/modder/writer, open-source enthusiast and [colemak](https://colemak.com/) user.**
 
 - [Linkedin](https://www.linkedin.com/in/novout)
 - [Dev.To](https://dev.to/gcnovout)
