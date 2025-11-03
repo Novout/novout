@@ -49,12 +49,9 @@ Here you will find libraries used in private projects and softwares for general 
 - [ars-a-random-story](https://www.moddb.com/mods/arsa-random-story): A scenario for Hearts of Iron IV (Frost Remnands).
 - [extra-maps](https://www.moddb.com/mods/extra-maps): Extra maps for new experiences for Stellaris, with many varieties.
 
-#### Articles
+#### My Books
 
-- [bettewrite](https://medium.com/@Novout/how-i-built-a-100-client-side-word-processor-7d00001725f3): How I Built a 100% Client-Side Word Processor
-- [ununuracss](https://medium.com/@Novout/ununuracss-how-i-built-my-own-tailwindcss-50762d3b00f): UnunuraCSS — How I Built “my own TailwindCSS”
-- [vuejs](https://dev.to/gcnovout/vuejs-in-2023-some-tips-you-should-know-55e3): Vue.js in 2023 – Some tips you should know.
-- [webgames](https://dev.to/gcnovout/desenvolvimento-de-jogos-para-programadores-as-web-parte-1-29ae): Desenvolvimento de Jogos para Programadores(as) WEB - Parte 1
+- [entre-plano](https://www.amazon.com.br/Restos-Geada-Entre-Plano-Giovane-Cardoso-ebook/dp/B0B45949C5): Livro canônico do universo de Restos da Geada.
 
 #### Others
 
