@@ -53,6 +53,10 @@ Here you will find libraries used in private projects and softwares for general 
 
 - [entre-plano](https://www.amazon.com.br/Restos-Geada-Entre-Plano-Giovane-Cardoso-ebook/dp/B0B45949C5): Livro canônico do universo de Restos da Geada.
 
+#### Sounds
+
+- [fw-sounds](https://soundcloud.com/user-115103093/sets/arsa-random-story) - A complete collection of musics for a apocaliptical scenario, maded in 2018.
+
 #### Others
 
 - [haxe-electron-boilerplate](https://github.com/Novout/haxe-electron-boilerplate): A boilerplate for use Haxe in Electron.js.
