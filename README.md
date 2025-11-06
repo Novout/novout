@@ -5,6 +5,7 @@
 - [Linkedin](https://www.linkedin.com/in/novout)
 - [Dev.To](https://dev.to/gcnovout)
 - [Medium](https://medium.com/@Novout)
+- Discord: chofanezx
 
 ### Projects
 
