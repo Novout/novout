@@ -13,10 +13,10 @@ Here you will find libraries used in private projects and softwares for general 
 
 #### Softwares
 
-- [betterwrite](https://github.com/Novout/betterwrite): 📑 A creative word processor focused for writers and enthusiasts of creative writing.
-- [eterno](https://github.com/Novout/eterno): 🔧 A lightweight browser based on chromium for personal use.
-- [guadalupe](https://github.com/Novout/guadalupe): A personal finances app.
-- [frost-remnands-desktop](https://github.com/restosdageada/frost-remnands-desktop): Desktop application with Vue-Electron for D&D 5e FR Custom Scenario.
+- [betterwrite](https://github.com/Novout/betterwrite): 📑 A creative word processor focused for writers and enthusiasts of creative writing;
+- [betterwrite-black](https://github.com/betterwrite/betterwrite-black): A background version for betterwrite.io;
+- [eterno](https://github.com/Novout/eterno): 🔧 A lightweight browser based on chromium for personal use;
+- [guadalupe](https://github.com/Novout/guadalupe): A personal finances app;
 
 #### Tooling
 
