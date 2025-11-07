@@ -2,6 +2,8 @@
 
 **Hi, I'm Giovane – a brazilian freelancer developer/modder/writer, [betterwrite](https://betterwrite.io) founder, open-source enthusiast and [colemak](https://colemak.com/) user.**
 
+<script src="https://gist.github.com/Novout/c2412349fd60eae5dc25bf5c8615552a.js"></script>
+
 - [Linkedin](https://www.linkedin.com/in/novout)
 - [Dev.To](https://dev.to/gcnovout)
 - [Medium](https://medium.com/@Novout)
