@@ -9,6 +9,10 @@
 - [Medium](https://medium.com/@Novout)
 - Discord: chofanezx
 
+  ### KKKKKKK
+
+  EU SOU O ANTICRISTO SEUS IMBECIS
+
 ### Projects
 
 Here you will find libraries used in private projects and softwares for general use.
