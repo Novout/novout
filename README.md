@@ -17,6 +17,8 @@ Here you will find libraries used in private projects and softwares for general 
 - [betterwrite-black](https://github.com/betterwrite/betterwrite-black): A background version for betterwrite.io;
 - [eterno](https://github.com/Novout/eterno): 🔧 A lightweight browser based on chromium for personal use;
 - [guadalupe](https://github.com/Novout/guadalupe): A personal finances app;
+- [CriticalVTT Frontend](https://github.com/Novout/critical-vtt-frontend): A another frontend roll20 style-app
+- [CriticalVTT Backend](https://github.com/Novout/critical-vtt-backend): A another backend roll20 style-app
 
 #### Tooling
 
@@ -31,6 +33,10 @@ Here you will find libraries used in private projects and softwares for general 
 - [vue-pdfmake](https://github.com/betterwrite/vue-pdfmake): A PDFMake Plugin for Vue 3.x.
 - [vue-pubsub](https://github.com/betterwrite/vue-pubsub): A Pubsub Plugin (or better Event Bus) for Vue.
 - [vue-providers](https://github.com/betterwrite/vue-providers): A simple collection of general-purpose directives for Vue 2/3.
+- [creately-extension](https://github.com/Novout/creately-dark-theme): A creately dark-theme extension.
+- [pixi-factory](https://github.com/Novout/pixi-factory): 🏭 A superset for creating and handling Pixi.js resources.
+- [pixi-view](https://github.com/Novout/pixi-view): 🖥️ Interface for easy and practical development using Pixi.js.
+- [pixi-controller](https://github.com/Novout/pixi-controller): ☑️ Event Manager for Pixi.js
 
 #### Open Source Contributions
 
