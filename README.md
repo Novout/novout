@@ -2,16 +2,10 @@
 
 **Hi, I'm Giovane – a brazilian freelancer developer/modder/writer, [betterwrite](https://betterwrite.io) founder, open-source enthusiast and [colemak](https://colemak.com/) user.**
 
-<script src="https://gist.github.com/Novout/c2412349fd60eae5dc25bf5c8615552a.js"></script>
-
 - [Linkedin](https://www.linkedin.com/in/novout)
 - [Dev.To](https://dev.to/gcnovout)
 - [Medium](https://medium.com/@Novout)
 - Discord: chofanezx
-
-  ### KKKKKKK
-
-  EU SOU O ANTICRISTO SEUS IMBECIS
 
 ### Projects
 
@@ -53,6 +47,7 @@ Here you will find libraries used in private projects and softwares for general 
 - [history](https://github.com/Novout/history): 🎯 A 4X Strategy Game in Web Browser.
 - [the-epic-war](https://www.moddb.com/mods/the-epic-war): A all-purpose Hearts of Iron IV mod to upgrade common gameplay.
 - [focus-tree](https://www.moddb.com/mods/focus-tree): A collection of focus tree for minor countries for Hearts of Iron IV.
+- [modified-water](https://steamcommunity.com/sharedfiles/filedetails/?id=1545903690): A colored water.
 - [ars-a-random-story](https://www.moddb.com/mods/arsa-random-story): A scenario for Hearts of Iron IV (Frost Remnands).
 - [extra-maps](https://www.moddb.com/mods/extra-maps): Extra maps for new experiences for Stellaris, with many varieties.
 
