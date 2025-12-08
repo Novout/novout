@@ -15,7 +15,7 @@ Here you will find libraries used in private projects and softwares for general 
 
 - [betterwrite](https://github.com/Novout/betterwrite): 📑 A creative word processor focused for writers and enthusiasts of creative writing;
 - [betterwrite-black](https://github.com/betterwrite/betterwrite-black): A background version for betterwrite.io;
-- [eterno](https://github.com/Novout/eterno): 🔧 A lightweight browser based on chromium for personal use;
+- [eterno](https://github.com/Novout/eterno): 🔧 A lightweight browser based on chromium;
 - [guadalupe](https://github.com/Novout/guadalupe): A personal finances app;
 - [CriticalVTT Frontend](https://github.com/Novout/critical-vtt-frontend): A another frontend roll20 style-app
 - [CriticalVTT Backend](https://github.com/Novout/critical-vtt-backend): A another backend roll20 style-app
