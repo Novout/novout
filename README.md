@@ -67,5 +67,6 @@ Here you will find libraries used in private projects and softwares for general 
 
 #### Others
 
+- [autoria-d20](https://github.com/Novout/autoriad20-next): Uma maneira diferente de planejar sistemas para RPG's
 - [haxe-electron-boilerplate](https://github.com/Novout/haxe-electron-boilerplate): A boilerplate for use Haxe in Electron.js.
 - [ragnorium-portuguese-localisation](https://github.com/Novout/ragnorium-portuguese-localisation): pt-BR Localisation for game Ragnorium: Planet Recolonization Odyssey.
