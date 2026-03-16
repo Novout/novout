@@ -51,6 +51,7 @@ Here you will find libraries used in private projects and softwares for general 
 
 - [konstanta](https://github.com/Novout/konstanta): 🕹️ A 2D RPG Procedural-Map in Web Browser.
 - [history](https://github.com/Novout/history): 🎯 A 4X Strategy Game in Web Browser.
+- [exit](https://github.com/Novout/exit): A ikariam offline version.
 - [the-epic-war](https://www.moddb.com/mods/the-epic-war): A all-purpose Hearts of Iron IV mod to upgrade common gameplay.
 - [focus-tree](https://www.moddb.com/mods/focus-tree): A collection of focus tree for minor countries for Hearts of Iron IV.
 - [modified-water](https://steamcommunity.com/sharedfiles/filedetails/?id=1545903690): A colored water.
