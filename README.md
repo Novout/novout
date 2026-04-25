@@ -14,11 +14,22 @@ Here you will find libraries used in private projects and softwares for general 
 #### Softwares
 
 - [betterwrite](https://github.com/Novout/betterwrite): 📑 A creative word processor focused for writers and enthusiasts of creative writing;
-- [betterwrite-api](https://github.com/betterwrite/betterwrite-backend): A background version for betterwrite.io;
-- [eterno](https://github.com/Novout/eterno): 🔧 A lightweight browser based on chromium;
+- [eterno](https://github.com/ZEXagonal-mente/eterno): 🔧 A lightweight browser based on chromium;
 - [guadalupe](https://github.com/Novout/guadalupe): A personal finances app;
 - [CriticalVTT Frontend](https://github.com/Novout/critical-vtt-frontend): A another frontend roll20 style-app
 - [CriticalVTT Backend](https://github.com/Novout/critical-vtt-backend): A another backend roll20 style-app
+
+#### Web Games / Mods
+
+- [konstanta](https://github.com/Novout/konstanta): 🕹️ A 2D RPG Procedural-Map in Web Browser.
+- [history](https://github.com/Novout/history): 🎯 A 4X Strategy Game in Web Browser.
+- [batalo](https://github.com/Novout/batalo): A Frost Remnants Web Card Game.
+- [exit](https://github.com/Novout/exit): A ikariam offline version.
+- [the-epic-war](https://www.moddb.com/mods/the-epic-war): A all-purpose Hearts of Iron IV mod to upgrade common gameplay.
+- [focus-tree](https://www.moddb.com/mods/focus-tree): A collection of focus tree for minor countries for Hearts of Iron IV.
+- [modified-water](https://steamcommunity.com/sharedfiles/filedetails/?id=1545903690): A colored water.
+- [ars-a-random-story](https://www.moddb.com/mods/arsa-random-story): A scenario for Hearts of Iron IV (Frost Remnands).
+- [extra-maps](https://www.moddb.com/mods/extra-maps): Extra maps for new experiences for Stellaris, with many varieties.
 
 #### Tooling
 
@@ -27,7 +38,7 @@ Here you will find libraries used in private projects and softwares for general 
 
 #### Libraries
 
-- [nvton](https://github.com/Novout/nvton): Novout Object Notation - A key-value management for better data control.
+- [nvton](https://github.com/ZEXagonal-mente/nvton): Novout Object Notation - A key-value management for better data control.
 - [pdfeasy](https://github.com/betterwrite/pdfeasy): 📕 A JavaScript Client/Server Side PDF-Generator based in PDFKit.
 - [ununuracss](https://github.com/Novout/ununuracss): A Real CSS Engine based on UnoCSS. Only Scoped.
 - [vue-pdfmake](https://github.com/betterwrite/vue-pdfmake): A PDFMake Plugin for Vue 3.x.
@@ -46,17 +57,6 @@ Here you will find libraries used in private projects and softwares for general 
 - [vue4noobs](https://github.com/Novout/vue4noobs): 📗 Tutorial Vue 2~3 in Brazilian Portuguese.
 - [cpp4noobs](https://github.com/Novout/cpp4noobs): 📘 Tutorial C++ in Brazilian Portuguese.
 - [css4noobs](https://github.com/he4rt/css4noobs): Basic CSS guide for beginners.
-
-#### Web Games / Mods
-
-- [konstanta](https://github.com/Novout/konstanta): 🕹️ A 2D RPG Procedural-Map in Web Browser.
-- [history](https://github.com/Novout/history): 🎯 A 4X Strategy Game in Web Browser.
-- [exit](https://github.com/Novout/exit): A ikariam offline version.
-- [the-epic-war](https://www.moddb.com/mods/the-epic-war): A all-purpose Hearts of Iron IV mod to upgrade common gameplay.
-- [focus-tree](https://www.moddb.com/mods/focus-tree): A collection of focus tree for minor countries for Hearts of Iron IV.
-- [modified-water](https://steamcommunity.com/sharedfiles/filedetails/?id=1545903690): A colored water.
-- [ars-a-random-story](https://www.moddb.com/mods/arsa-random-story): A scenario for Hearts of Iron IV (Frost Remnands).
-- [extra-maps](https://www.moddb.com/mods/extra-maps): Extra maps for new experiences for Stellaris, with many varieties.
 
 #### My Books
 
