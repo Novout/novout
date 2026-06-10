@@ -16,8 +16,7 @@ Here you will find libraries used in private projects and softwares for general 
 - [betterwrite](https://github.com/Novout/betterwrite): 📑 A creative word processor focused for writers and enthusiasts of creative writing;
 - [eterno](https://github.com/ZEXagonal-mente/eterno): 🔧 A lightweight browser based on chromium;
 - [guadalupe](https://github.com/Novout/guadalupe): A personal finances app;
-- [CriticalVTT Frontend](https://github.com/Novout/critical-vtt-frontend): A another frontend roll20 style-app
-- [CriticalVTT Backend](https://github.com/Novout/critical-vtt-backend): A another backend roll20 style-app
+- [trevada](https://github.com/ZEXagonal-mente/trevada): A roll20 platform.
 
 #### Web Games / Mods
 
